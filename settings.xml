@@ -17,21 +17,6 @@
 		<!--Remote Settings Control-->
 		<!--included here to return these settings to previous default-->
 
-		<!--Enable-->
-		<dict>
-			<key>Key</key><string>remoteSettingsEnabled</string>
-			<key>Value</key><false/>
-		</dict>
-		<!--XML File Location-->
-		<dict>
-			<key>Key</key><string>externalSettingsFile</string>
-			<key>Value</key><string></string>
-		</dict>
-		<!--Update Period (minutes)-->
-		<dict>
-			<key>Key</key><string>localSettingsUpdatePeriod</string>
-			<key>Value</key><string></string>
-		</dict>
 	</array>
 </dict>
 </plist>
