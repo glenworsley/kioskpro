@@ -1,0 +1,37 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kioskSettings</key>
+	<array>
+		<!--Site Version: Custom User Agent String-->
+		<!--last updated 12/1/2022 -->
+		<!--previous version: Mozilla/5.0 (iPad; CPU OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1 -->
+
+        <dict>
+			<key>Key</key><string>customUserAgentString</string>
+			<key>Value</key><string>Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22D60</string>
+		</dict>
+		
+		<!--Remote Settings Control-->
+		<!--included here to return these settings to previous default-->
+
+		<!--Enable-->
+		<dict>
+			<key>Key</key><string>remoteSettingsEnabled</string>
+			<key>Value</key><false/>
+		</dict>
+		<!--XML File Location-->
+		<dict>
+			<key>Key</key><string>externalSettingsFile</string>
+			<key>Value</key><string></string>
+		</dict>
+		<!--Update Period (minutes)-->
+		<dict>
+			<key>Key</key><string>localSettingsUpdatePeriod</string>
+			<key>Value</key><string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
