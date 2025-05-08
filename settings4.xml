@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kioskSettings</key>
+	<array>
+		<!--Site Version: Custom User Agent String-->
+		<!--last updated 12/1/2022 -->
+		<!--previous version: Mozilla/5.0 (iPad; CPU OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1 -->
+
+        <dict>
+			<key>Key</key><string>customUserAgentString</string>
+			<key>Value</key><string>Mozilla/5.0 (iPad) AppleWebKit/Kiosk Pro</string>
+		</dict>
+		
+		<!--Remote Settings Control-->
+		<!--included here to return these settings to previous default-->
+
+	</array>
+</dict>
+</plist>
